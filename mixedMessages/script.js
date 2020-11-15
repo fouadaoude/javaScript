@@ -1,5 +1,5 @@
 // script.js
-
+// You need to npm install an-array-of-english-words before wordList will become available to you. :)
 const wordList = require('an-array-of-english-words');
 const makeSense = ['I', 'Hate', 'Love', 'When', 'Let', 'Me', 'Eat', 'Together', 'Alone', 'Forever', 'With', 'Vacation', 'Jail', 'Go', 'With', 'Music', 'Cool', 'Hands', 'Feet', 'Smell'];
 
